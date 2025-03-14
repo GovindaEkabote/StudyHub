@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sa daskdl aksld
 sd,s klad
+=======
+asd
+>>>>>>> 13b72cc (Added third File)
